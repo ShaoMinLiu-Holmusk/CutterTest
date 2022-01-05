@@ -1,0 +1,7 @@
+CutterTest module
+=================
+
+.. automodule:: CutterTest
+   :members:
+   :undoc-members:
+   :show-inheritance:
